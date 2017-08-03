@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.stackroute.activitystream</groupId>
-	<artifactId>CircleService</artifactId>
+	<artifactId>UserService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>CircleService</name>
+	<name>UserService</name>
 	<description>Micro service of user module for activity stream</description>
 
 	<parent>
